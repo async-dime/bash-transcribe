@@ -1,4 +1,4 @@
-# Simple Bash Youtube Transcription
+# Simple Bash Youtube Transcription into Simple Blogpost-style Markdown
 
 This is a bash script that transcribes YouTube videos to text using [yt-whisper](https://github.com/m1guelpf/yt-whisper). The script transcribes the video into a `.vtt` file, converts it to a `.txt` file, and then uses the OpenAI API to convert it into a simple blog post-style `.md` file.
 
